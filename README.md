@@ -8,7 +8,7 @@
 
 ## 广而告之
 
-* 我在51CTO上的收费培训课程，不喜误入。[http://edu.51cto.com/lecturer/index/user_id-1110045.html]
+* 收费培训课程，不喜误入。[http://www.devopsedu.com/front/couinfo/49]
 
 ## 案例架构图
 
